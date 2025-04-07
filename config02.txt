@@ -1,0 +1,6 @@
+devops test
+<<<<<<< HEAD
+
+//update config02.txt
+=======
+>>>>>>> ab6f8f88937357886fb07775d4732df7f36fdcc8
