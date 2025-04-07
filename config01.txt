@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 devops
 
 config
+=======
+devops test
+>>>>>>> feature/fn2
